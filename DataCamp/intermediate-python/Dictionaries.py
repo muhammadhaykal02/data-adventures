@@ -7,3 +7,4 @@ ind_ger = countries.index("germany")
 
 # Use ind_ger to print out capital of Germany
 print(capitals[ind_ger])
+
