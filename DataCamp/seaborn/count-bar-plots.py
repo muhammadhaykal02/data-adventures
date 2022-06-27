@@ -36,3 +36,5 @@ sns.catplot(x="day",    # switching x and y into one another to rotate it 90 deg
             data=tips,
             kind="bar")
 plt.show()
+
+
